@@ -1,0 +1,4 @@
+name = Responsive Login
+description = Make the login screen responsive :)
+package = User interface
+core = 7.x
